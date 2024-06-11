@@ -3,7 +3,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=r2road&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=r2road&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
